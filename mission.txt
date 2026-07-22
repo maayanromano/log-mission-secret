@@ -1,0 +1,7 @@
+Mission Name: Operation Quiet Room
+Status: In Progress
+Leader: Agent David
+Location: Training BaseMission Name: Operation Quiet Room
+Status: Started
+Leader: Unknown
+Priority: High
